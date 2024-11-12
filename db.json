@@ -73,9 +73,9 @@
       "points": 30
     },
     {
-      "question": "What is Adeeb's favorite time of day?",
-      "options": ["Morning", "Afternoon", "Evening", "Night"],
-      "correctOption": 1,
+      "question": "How does Adeeb view failure?",
+      "options": ["As a challenge","As a loss", "As a learning opportunity", "As a setback"],
+      "correctOption": 0,
       "points": 30
     },
     {
