@@ -8,8 +8,8 @@
     },
     {
       "question": "Where is Adeeb from?",
-      "options": ["Damascus", "Aleppo", "Homs", "Latakia"],
-      "correctOption": 2,
+      "options": ["Damascus", "Aleppo", "Homs", "Hama"],
+      "correctOption": 3,
       "points": 10
     },
     {
