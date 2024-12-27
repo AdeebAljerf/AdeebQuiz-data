@@ -69,7 +69,7 @@
     {
       "question": "What is Adeeb's favorite pet?",
       "options": ["Dog", "Cat", "Monkey","Bird" ],
-      "correctOption": 2,
+      "correctOption": 0,
       "points": 30
     },
     {
